@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">JohnAfternoonProject</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_intents">IntentsActivity</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="title_activity_uiactivity">UIActivity</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_lottie">LottieActivity</string>
+    <string name="title_activity_splashscreen">Splashscreen</string>
+    <string name="title_activity_assignment">AssignmentActivity</string>
+    <string name="title_activity_assignment2">AssignmentActivity2</string>
+    <string name="title_activity_assigment3">AssigmentActivity3</string>
+    <string name="title_activity_mali">MaliActivity</string>
+    <string name="title_activity_chairs2">ChairsActivity2</string>
+    <string name="title_activity_lead2">LeadActivity2</string>
+    <string name="title_activity_lead">LeadActivity</string>
+</resources>
